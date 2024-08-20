@@ -1,4 +1,4 @@
-public class OperadoresUnario {
+public class operadoresUnario {
     public static void main(String[] args) throws Exception { 
 
      int numero = 5;

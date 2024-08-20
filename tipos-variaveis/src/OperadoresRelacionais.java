@@ -1,4 +1,4 @@
-public class OperadoresRelacionais {
+public class operadoresRelacionais {
     public static void main(String[] args) throws Exception { 
 
 

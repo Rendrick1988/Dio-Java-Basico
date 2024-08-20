@@ -1,4 +1,4 @@
-public class TiposdeOperadores {
+public class tiposdeOperadores {
     public static void main(String[] args) throws Exception {
       String concatenacao = "?";
 

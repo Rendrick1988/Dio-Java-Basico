@@ -1,6 +1,6 @@
 
 
-public class OperadorTernario {
+public class operadorTernario {
     public static void main(String[] args) throws Exception {
     
     
